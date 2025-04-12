@@ -1,0 +1,5 @@
+
+//this code is for 3d model need to run on terminal 
+npm install --save three //for import three (for 3d model)
+npm install --save-dev vite // for vite (nodal module)
+npx vite //run 

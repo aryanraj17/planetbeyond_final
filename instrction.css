@@ -1,0 +1,67 @@
+body{
+    
+    font-family: Roboto;
+    background: url('pictures/img/homjEO.webp') no-repeat center center fixed;
+    background-size: cover;
+    
+
+}
+P{
+    font-size: large;
+}
+.ins-body{
+    background-color: rgba(0, 0, 0, 0.621);
+    border-radius: 25px;
+    border:2px solid white;
+    color: white;
+    margin-top: 50px;
+    margin-left: 50px;
+    margin-right: 50px;
+}
+.int-content{
+    margin-left: 6%;
+    margin-top: 2%;
+}
+
+.int-content-pera{
+    padding-top: 30px;
+    padding-right: 10px;
+}
+
+
+.ins-objective{
+    margin-right:6% ;
+    margin-top: 10%;
+}
+.ins-objective-pera{
+    margin-left: 50px;
+    padding-left: 30px;
+}
+.ins-objective-pera h1{
+    padding-left: 400px;
+}
+.ins-controls{
+    margin-top: 100px;
+    margin-bottom: 50px;
+    margin-left: 50px;
+    margin-right: 50px;
+    
+
+
+}
+.ins-controls h1{
+    margin-left: 35%;
+}
+.ins-controls ul{
+    margin-right: 200px;
+    margin-left: 50px;
+}
+
+.hover-btn {
+    transition: border 0.3s ease, transform 0.3s ease-in-out; 
+}
+
+.hover-btn:hover {
+    border: 2px solid white; 
+    transform: scale(1.2);   
+}

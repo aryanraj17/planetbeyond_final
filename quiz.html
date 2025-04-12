@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Astro Trivia</title>
+    <link rel="stylesheet" href="quiz.css">
+    <script src="https://cdn.jsdelivr.net/npm/party-js@latest/bundle/party.min.js"></script>
+
+</head>
+
+<body>
+    <div class="bg"></div>
+
+
+    <div class="star-field">
+        <div class="layer"></div>
+        <div class="layer"></div>
+        <div class="layer"></div>
+
+
+        <main class="main">
+            <header class="header">
+                <a href="#" class="logo">Quiz.</a>
+
+                <nav class="navbar">
+                    <a href="index.html">Home</a>
+                    <a href="school.html">Gamma mode</a>
+                    <a href="gravity.html">Beta mode</a>
+                </nav>
+            </header>
+
+            <div class="container">
+                <section class="quiz-section">
+
+
+                    <div class="quiz-box">
+
+                        <h1>Astro Trivia</h1>
+                        <div class="quiz-header">
+                            <span>All the best explorer!</span>
+                            <span class="header-score">Score: 0 / 10</span>
+                        </div>
+
+                        <h2 class="question-text">What does HTML stand for?</h2>
+
+                        <div class="option-list">
+                        </div>
+
+                        <div class="quiz-footer">
+                            <span class="question-total">1 of 5 Questions</span>
+                            <button class="next-btn">Next</button>
+                        </div>
+                    </div>
+
+                    <div class="result-box">
+                        <h2>Quiz Result !</h2>
+                        <div class="percentage-container">
+                            <div class="circular-progress">
+                                <span class="progress-value">0%</span>
+                            </div>
+
+                            <span class="score-text">Your Score 0 out of 5</span>
+                        </div>
+
+                        <div class="buttons">
+                            <button class="tryAgain-btn">Try Again</button>
+                            <button class="goHome-btn">Go to Home</button>
+                        </div>
+                    </div>
+                </section>
+
+                <section class="home">
+                    <div class="home-content">
+                        <h1>"Astro Trivia"</h1>
+                        <p>"Welcome to the Exoplanet Explorer Quiz, where your knowledge is about to launch into orbit! Get ready to dive headfirst into the weird and wonderful world of planets far, far away—where skies might rain diamonds, and gravity could
+                            make you feel like a superhero (or a pancake). Don't worry, you don't need a PhD in astrophysics—just your curiosity and a sense of adventure! So, tighten your helmet, and let’s see if you’ve got what it takes to navigate the
+                            cosmos like a pro."</p>
+                        <button class="start-btn">🚀 Take off !!</button>
+                    </div>
+                </section>
+            </div>
+        </main>
+
+        <div class="popup-info">
+            <h2>Quiz Guide</h2>
+            <span class="info">1. The test contains Multiple Choice Questions (MCQs).</span>
+            <span class="info">2. All questions are compulsory and each carries One mark.</span>
+            <!-- <span class="info">3. There will be NEGATIVE MARKING (-0.5) for the wrong answers.</span> -->
+
+            <div class="btn-group">
+                <button class="info-btn exit-btn">Exit Quiz</button>
+                <a href="#" class="info-btn" id="continue-btn">Continue</a>
+            </div>
+        </div>
+
+
+        <script src="questions.js"></script>
+        <script src="quiz.js"></script>
+</body>
+
+</html>

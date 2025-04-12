@@ -1,0 +1,301 @@
+user_id,category_id,quiz_id,rating,learning_style,category_name
+27,2,7,5,visual,Habitability and Life on Exoplanets
+27,2,7,4,visual,Habitability and Life on Exoplanets
+39,3,8,4,auditory,Exoplanet Types and Characteristics
+18,3,7,3,kinesthetic,Exoplanet Types and Characteristics
+96,3,10,5,visual,Exoplanet Types and Characteristics
+61,1,5,3,visual,Exoplanet Discovery Methods
+77,2,9,4,auditory,Habitability and Life on Exoplanets
+36,3,9,1,kinesthetic,Exoplanet Types and Characteristics
+71,2,4,3,auditory,Habitability and Life on Exoplanets
+94,3,10,3,auditory,Exoplanet Types and Characteristics
+13,2,8,1,visual,Habitability and Life on Exoplanets
+19,3,2,4,auditory,Exoplanet Types and Characteristics
+66,3,5,3,visual,Exoplanet Types and Characteristics
+63,2,3,5,auditory,Habitability and Life on Exoplanets
+21,1,1,1,visual,Exoplanet Discovery Methods
+98,1,9,5,kinesthetic,Exoplanet Discovery Methods
+71,1,5,4,visual,Exoplanet Discovery Methods
+69,3,10,5,visual,Exoplanet Types and Characteristics
+44,3,10,3,visual,Exoplanet Types and Characteristics
+75,1,5,3,kinesthetic,Exoplanet Discovery Methods
+50,2,2,4,kinesthetic,Habitability and Life on Exoplanets
+60,2,8,2,kinesthetic,Habitability and Life on Exoplanets
+27,1,7,3,kinesthetic,Exoplanet Discovery Methods
+52,3,3,4,visual,Exoplanet Types and Characteristics
+56,2,9,1,kinesthetic,Habitability and Life on Exoplanets
+79,1,6,4,kinesthetic,Exoplanet Discovery Methods
+94,3,4,4,auditory,Exoplanet Types and Characteristics
+65,1,7,4,kinesthetic,Exoplanet Discovery Methods
+6,3,4,3,auditory,Exoplanet Types and Characteristics
+71,2,10,3,visual,Habitability and Life on Exoplanets
+20,3,5,5,visual,Exoplanet Types and Characteristics
+69,2,5,2,kinesthetic,Habitability and Life on Exoplanets
+4,3,2,1,auditory,Exoplanet Types and Characteristics
+19,2,3,5,visual,Habitability and Life on Exoplanets
+36,2,2,1,auditory,Habitability and Life on Exoplanets
+90,2,7,4,auditory,Habitability and Life on Exoplanets
+48,2,3,1,visual,Habitability and Life on Exoplanets
+92,3,7,1,auditory,Exoplanet Types and Characteristics
+10,3,6,5,visual,Exoplanet Types and Characteristics
+34,3,5,3,kinesthetic,Exoplanet Types and Characteristics
+10,2,7,4,auditory,Habitability and Life on Exoplanets
+72,3,4,4,kinesthetic,Exoplanet Types and Characteristics
+27,1,10,5,visual,Exoplanet Discovery Methods
+12,3,2,2,kinesthetic,Exoplanet Types and Characteristics
+13,2,7,3,visual,Habitability and Life on Exoplanets
+83,3,10,5,kinesthetic,Exoplanet Types and Characteristics
+50,1,4,1,visual,Exoplanet Discovery Methods
+44,2,8,3,visual,Habitability and Life on Exoplanets
+65,3,1,1,kinesthetic,Exoplanet Types and Characteristics
+22,3,10,5,auditory,Exoplanet Types and Characteristics
+19,1,10,4,kinesthetic,Exoplanet Discovery Methods
+71,2,5,5,kinesthetic,Habitability and Life on Exoplanets
+44,1,5,5,visual,Exoplanet Discovery Methods
+93,1,8,4,visual,Exoplanet Discovery Methods
+29,1,1,5,kinesthetic,Exoplanet Discovery Methods
+81,1,9,5,kinesthetic,Exoplanet Discovery Methods
+53,1,1,5,auditory,Exoplanet Discovery Methods
+74,3,5,4,visual,Exoplanet Types and Characteristics
+35,1,8,5,auditory,Exoplanet Discovery Methods
+94,2,9,3,visual,Habitability and Life on Exoplanets
+16,2,1,1,visual,Habitability and Life on Exoplanets
+78,1,4,2,kinesthetic,Exoplanet Discovery Methods
+17,3,10,3,visual,Exoplanet Types and Characteristics
+4,2,5,1,visual,Habitability and Life on Exoplanets
+86,2,6,1,auditory,Habitability and Life on Exoplanets
+3,2,10,5,auditory,Habitability and Life on Exoplanets
+28,2,10,4,kinesthetic,Habitability and Life on Exoplanets
+16,2,4,5,visual,Habitability and Life on Exoplanets
+10,3,4,3,visual,Exoplanet Types and Characteristics
+60,3,6,1,visual,Exoplanet Types and Characteristics
+38,2,5,4,auditory,Habitability and Life on Exoplanets
+52,2,7,4,auditory,Habitability and Life on Exoplanets
+67,1,4,1,kinesthetic,Exoplanet Discovery Methods
+29,2,6,4,visual,Habitability and Life on Exoplanets
+50,1,5,4,auditory,Exoplanet Discovery Methods
+28,1,10,5,visual,Exoplanet Discovery Methods
+29,2,8,2,visual,Habitability and Life on Exoplanets
+84,3,6,5,visual,Exoplanet Types and Characteristics
+98,2,3,5,visual,Habitability and Life on Exoplanets
+24,2,10,4,auditory,Habitability and Life on Exoplanets
+3,2,3,1,auditory,Habitability and Life on Exoplanets
+99,3,8,1,visual,Exoplanet Types and Characteristics
+24,3,2,3,auditory,Exoplanet Types and Characteristics
+6,3,7,4,kinesthetic,Exoplanet Types and Characteristics
+73,1,2,5,visual,Exoplanet Discovery Methods
+67,1,3,2,kinesthetic,Exoplanet Discovery Methods
+85,3,5,4,auditory,Exoplanet Types and Characteristics
+46,1,10,2,auditory,Exoplanet Discovery Methods
+69,2,4,5,visual,Habitability and Life on Exoplanets
+95,3,2,1,visual,Exoplanet Types and Characteristics
+38,3,5,1,auditory,Exoplanet Types and Characteristics
+38,1,2,3,auditory,Exoplanet Discovery Methods
+66,1,10,2,kinesthetic,Exoplanet Discovery Methods
+91,3,3,4,auditory,Exoplanet Types and Characteristics
+25,1,9,5,kinesthetic,Exoplanet Discovery Methods
+23,2,5,1,kinesthetic,Habitability and Life on Exoplanets
+15,1,1,5,visual,Exoplanet Discovery Methods
+100,2,5,5,auditory,Habitability and Life on Exoplanets
+43,2,4,3,visual,Habitability and Life on Exoplanets
+65,3,5,4,kinesthetic,Exoplanet Types and Characteristics
+84,1,6,3,visual,Exoplanet Discovery Methods
+99,1,8,3,visual,Exoplanet Discovery Methods
+96,3,5,2,auditory,Exoplanet Types and Characteristics
+47,1,4,1,visual,Exoplanet Discovery Methods
+36,1,4,1,auditory,Exoplanet Discovery Methods
+86,2,5,5,auditory,Habitability and Life on Exoplanets
+29,2,5,5,kinesthetic,Habitability and Life on Exoplanets
+73,1,9,1,auditory,Exoplanet Discovery Methods
+91,1,7,1,visual,Exoplanet Discovery Methods
+17,3,4,4,visual,Exoplanet Types and Characteristics
+88,3,3,3,auditory,Exoplanet Types and Characteristics
+2,1,4,1,auditory,Exoplanet Discovery Methods
+74,2,10,4,kinesthetic,Habitability and Life on Exoplanets
+30,2,3,2,visual,Habitability and Life on Exoplanets
+1,1,7,1,visual,Exoplanet Discovery Methods
+95,2,7,1,auditory,Habitability and Life on Exoplanets
+67,1,2,4,visual,Exoplanet Discovery Methods
+15,3,1,1,visual,Exoplanet Types and Characteristics
+24,1,5,1,auditory,Exoplanet Discovery Methods
+55,1,1,4,kinesthetic,Exoplanet Discovery Methods
+9,3,4,5,kinesthetic,Exoplanet Types and Characteristics
+28,3,8,4,visual,Exoplanet Types and Characteristics
+76,3,3,5,auditory,Exoplanet Types and Characteristics
+20,3,9,3,kinesthetic,Exoplanet Types and Characteristics
+88,1,7,5,kinesthetic,Exoplanet Discovery Methods
+56,2,5,5,visual,Habitability and Life on Exoplanets
+98,2,7,4,visual,Habitability and Life on Exoplanets
+58,2,9,1,kinesthetic,Habitability and Life on Exoplanets
+19,3,9,4,kinesthetic,Exoplanet Types and Characteristics
+90,1,10,2,auditory,Exoplanet Discovery Methods
+14,1,2,2,visual,Exoplanet Discovery Methods
+11,1,9,4,auditory,Exoplanet Discovery Methods
+28,1,2,2,kinesthetic,Exoplanet Discovery Methods
+10,2,10,3,kinesthetic,Habitability and Life on Exoplanets
+87,1,10,2,kinesthetic,Exoplanet Discovery Methods
+43,1,8,1,auditory,Exoplanet Discovery Methods
+13,2,2,1,visual,Habitability and Life on Exoplanets
+47,2,8,1,visual,Habitability and Life on Exoplanets
+59,2,6,4,auditory,Habitability and Life on Exoplanets
+82,1,1,5,auditory,Exoplanet Discovery Methods
+3,3,4,5,auditory,Exoplanet Types and Characteristics
+36,2,1,1,auditory,Habitability and Life on Exoplanets
+23,1,7,2,auditory,Exoplanet Discovery Methods
+69,2,2,4,auditory,Habitability and Life on Exoplanets
+13,1,3,2,kinesthetic,Exoplanet Discovery Methods
+6,3,7,4,kinesthetic,Exoplanet Types and Characteristics
+14,2,5,3,kinesthetic,Habitability and Life on Exoplanets
+95,1,9,5,kinesthetic,Exoplanet Discovery Methods
+37,1,3,3,visual,Exoplanet Discovery Methods
+38,1,10,5,kinesthetic,Exoplanet Discovery Methods
+21,1,5,3,kinesthetic,Exoplanet Discovery Methods
+39,1,2,1,kinesthetic,Exoplanet Discovery Methods
+96,1,8,4,visual,Exoplanet Discovery Methods
+95,3,3,5,auditory,Exoplanet Types and Characteristics
+60,1,3,1,kinesthetic,Exoplanet Discovery Methods
+81,2,1,5,auditory,Habitability and Life on Exoplanets
+55,2,3,5,auditory,Habitability and Life on Exoplanets
+59,3,5,5,visual,Exoplanet Types and Characteristics
+42,1,6,2,kinesthetic,Exoplanet Discovery Methods
+34,3,5,3,visual,Exoplanet Types and Characteristics
+36,2,2,1,visual,Habitability and Life on Exoplanets
+74,3,8,4,auditory,Exoplanet Types and Characteristics
+37,3,4,2,auditory,Exoplanet Types and Characteristics
+81,3,8,2,kinesthetic,Exoplanet Types and Characteristics
+54,3,3,3,kinesthetic,Exoplanet Types and Characteristics
+79,2,5,5,visual,Habitability and Life on Exoplanets
+41,2,8,2,kinesthetic,Habitability and Life on Exoplanets
+80,3,3,2,auditory,Exoplanet Types and Characteristics
+40,1,6,3,auditory,Exoplanet Discovery Methods
+90,2,4,3,visual,Habitability and Life on Exoplanets
+10,3,5,3,auditory,Exoplanet Types and Characteristics
+68,2,6,2,auditory,Habitability and Life on Exoplanets
+27,3,5,2,auditory,Exoplanet Types and Characteristics
+87,2,9,3,visual,Habitability and Life on Exoplanets
+19,1,3,3,visual,Exoplanet Discovery Methods
+65,2,2,3,auditory,Habitability and Life on Exoplanets
+33,1,3,4,auditory,Exoplanet Discovery Methods
+50,3,4,1,auditory,Exoplanet Types and Characteristics
+12,1,10,2,auditory,Exoplanet Discovery Methods
+63,3,7,5,visual,Exoplanet Types and Characteristics
+95,2,4,5,visual,Habitability and Life on Exoplanets
+49,2,2,2,kinesthetic,Habitability and Life on Exoplanets
+57,2,10,4,auditory,Habitability and Life on Exoplanets
+18,2,5,1,auditory,Habitability and Life on Exoplanets
+82,3,9,3,kinesthetic,Exoplanet Types and Characteristics
+35,1,7,3,kinesthetic,Exoplanet Discovery Methods
+46,2,6,2,visual,Habitability and Life on Exoplanets
+91,3,1,3,visual,Exoplanet Types and Characteristics
+36,1,6,2,kinesthetic,Exoplanet Discovery Methods
+45,1,2,3,auditory,Exoplanet Discovery Methods
+72,1,7,1,auditory,Exoplanet Discovery Methods
+1,1,2,4,auditory,Exoplanet Discovery Methods
+23,1,1,4,auditory,Exoplanet Discovery Methods
+65,2,5,1,visual,Habitability and Life on Exoplanets
+20,3,9,4,kinesthetic,Exoplanet Types and Characteristics
+9,1,8,4,kinesthetic,Exoplanet Discovery Methods
+90,3,7,1,auditory,Exoplanet Types and Characteristics
+86,2,7,5,visual,Habitability and Life on Exoplanets
+94,3,8,4,visual,Exoplanet Types and Characteristics
+7,3,6,3,auditory,Exoplanet Types and Characteristics
+57,2,6,2,kinesthetic,Habitability and Life on Exoplanets
+82,3,8,5,visual,Exoplanet Types and Characteristics
+82,2,1,5,visual,Habitability and Life on Exoplanets
+64,3,5,1,auditory,Exoplanet Types and Characteristics
+72,3,6,5,visual,Exoplanet Types and Characteristics
+96,3,1,2,kinesthetic,Exoplanet Types and Characteristics
+55,1,6,5,kinesthetic,Exoplanet Discovery Methods
+11,1,8,5,visual,Exoplanet Discovery Methods
+70,2,4,5,auditory,Habitability and Life on Exoplanets
+55,1,4,4,kinesthetic,Exoplanet Discovery Methods
+17,1,5,4,kinesthetic,Exoplanet Discovery Methods
+83,2,10,4,visual,Habitability and Life on Exoplanets
+81,3,4,3,kinesthetic,Exoplanet Types and Characteristics
+66,1,8,4,kinesthetic,Exoplanet Discovery Methods
+33,3,7,3,kinesthetic,Exoplanet Types and Characteristics
+85,3,5,2,auditory,Exoplanet Types and Characteristics
+61,3,3,5,kinesthetic,Exoplanet Types and Characteristics
+15,2,2,4,auditory,Habitability and Life on Exoplanets
+24,3,9,5,kinesthetic,Exoplanet Types and Characteristics
+20,2,5,2,auditory,Habitability and Life on Exoplanets
+71,2,9,5,auditory,Habitability and Life on Exoplanets
+31,3,9,2,kinesthetic,Exoplanet Types and Characteristics
+60,2,7,1,auditory,Habitability and Life on Exoplanets
+65,2,5,3,kinesthetic,Habitability and Life on Exoplanets
+98,2,3,1,kinesthetic,Habitability and Life on Exoplanets
+44,2,5,5,auditory,Habitability and Life on Exoplanets
+51,3,9,5,auditory,Exoplanet Types and Characteristics
+56,2,10,3,visual,Habitability and Life on Exoplanets
+7,3,8,5,kinesthetic,Exoplanet Types and Characteristics
+2,2,10,3,kinesthetic,Habitability and Life on Exoplanets
+64,2,7,2,kinesthetic,Habitability and Life on Exoplanets
+33,3,4,5,kinesthetic,Exoplanet Types and Characteristics
+96,1,1,1,kinesthetic,Exoplanet Discovery Methods
+87,1,2,4,auditory,Exoplanet Discovery Methods
+34,1,1,3,kinesthetic,Exoplanet Discovery Methods
+61,2,3,1,kinesthetic,Habitability and Life on Exoplanets
+70,1,10,5,auditory,Exoplanet Discovery Methods
+30,3,9,3,auditory,Exoplanet Types and Characteristics
+27,2,7,5,kinesthetic,Habitability and Life on Exoplanets
+61,1,7,1,kinesthetic,Exoplanet Discovery Methods
+36,3,7,2,visual,Exoplanet Types and Characteristics
+24,3,6,1,visual,Exoplanet Types and Characteristics
+57,2,4,1,visual,Habitability and Life on Exoplanets
+40,1,8,5,auditory,Exoplanet Discovery Methods
+70,2,1,3,auditory,Habitability and Life on Exoplanets
+77,1,3,1,visual,Exoplanet Discovery Methods
+83,2,8,5,kinesthetic,Habitability and Life on Exoplanets
+96,1,3,5,auditory,Exoplanet Discovery Methods
+9,3,3,2,visual,Exoplanet Types and Characteristics
+49,3,4,4,auditory,Exoplanet Types and Characteristics
+88,1,6,1,auditory,Exoplanet Discovery Methods
+74,1,1,1,visual,Exoplanet Discovery Methods
+72,1,4,3,visual,Exoplanet Discovery Methods
+51,1,1,3,auditory,Exoplanet Discovery Methods
+16,2,9,3,auditory,Habitability and Life on Exoplanets
+80,1,10,5,auditory,Exoplanet Discovery Methods
+100,3,8,2,kinesthetic,Exoplanet Types and Characteristics
+60,3,9,3,auditory,Exoplanet Types and Characteristics
+50,1,7,5,visual,Exoplanet Discovery Methods
+63,3,7,4,kinesthetic,Exoplanet Types and Characteristics
+24,3,4,3,auditory,Exoplanet Types and Characteristics
+69,1,6,2,visual,Exoplanet Discovery Methods
+68,2,1,4,auditory,Habitability and Life on Exoplanets
+9,2,9,5,auditory,Habitability and Life on Exoplanets
+2,3,3,4,kinesthetic,Exoplanet Types and Characteristics
+90,3,5,5,kinesthetic,Exoplanet Types and Characteristics
+13,1,6,3,kinesthetic,Exoplanet Discovery Methods
+45,2,1,3,auditory,Habitability and Life on Exoplanets
+42,1,3,2,kinesthetic,Exoplanet Discovery Methods
+46,1,8,4,visual,Exoplanet Discovery Methods
+74,2,7,5,visual,Habitability and Life on Exoplanets
+96,3,3,1,kinesthetic,Exoplanet Types and Characteristics
+66,2,10,3,kinesthetic,Habitability and Life on Exoplanets
+95,3,9,5,kinesthetic,Exoplanet Types and Characteristics
+35,1,5,4,kinesthetic,Exoplanet Discovery Methods
+10,1,2,5,kinesthetic,Exoplanet Discovery Methods
+53,2,10,5,kinesthetic,Habitability and Life on Exoplanets
+83,2,10,4,kinesthetic,Habitability and Life on Exoplanets
+40,2,5,3,kinesthetic,Habitability and Life on Exoplanets
+92,3,5,3,auditory,Exoplanet Types and Characteristics
+84,3,4,2,kinesthetic,Exoplanet Types and Characteristics
+31,2,6,5,kinesthetic,Habitability and Life on Exoplanets
+48,2,3,3,kinesthetic,Habitability and Life on Exoplanets
+44,2,4,3,auditory,Habitability and Life on Exoplanets
+90,1,8,4,auditory,Exoplanet Discovery Methods
+47,2,2,5,kinesthetic,Habitability and Life on Exoplanets
+86,2,2,4,visual,Habitability and Life on Exoplanets
+54,3,3,1,kinesthetic,Exoplanet Types and Characteristics
+66,2,7,1,auditory,Habitability and Life on Exoplanets
+67,1,9,4,auditory,Exoplanet Discovery Methods
+58,1,3,2,kinesthetic,Exoplanet Discovery Methods
+10,3,9,3,auditory,Exoplanet Types and Characteristics
+57,3,9,5,auditory,Exoplanet Types and Characteristics
+24,1,10,3,kinesthetic,Exoplanet Discovery Methods
+53,2,5,2,visual,Habitability and Life on Exoplanets
+77,2,4,2,visual,Habitability and Life on Exoplanets
+64,1,1,1,visual,Exoplanet Discovery Methods
+5,1,1,2,kinesthetic,Exoplanet Discovery Methods
+91,3,7,5,auditory,Exoplanet Types and Characteristics
+58,3,9,2,auditory,Exoplanet Types and Characteristics
